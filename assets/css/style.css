@@ -1,0 +1,21 @@
+.bg-web{
+    background-color: #5e5c5c;
+}
+
+.bg-web .nav-item .nav-link{
+    color: white;
+}
+
+
+.bg-web .navbar-brand{
+    color: white;
+}
+
+.bg-web .navbar-nav .nav-item  .active{
+    color: white;
+}
+
+
+.spacer{
+    padding-top: 3rem;
+}
